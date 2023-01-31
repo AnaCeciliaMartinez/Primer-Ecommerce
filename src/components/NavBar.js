@@ -1,5 +1,4 @@
 import {BsCart} from 'react-icons/bs'
-import logo from '../images/logo.jpg'
 import {GoSearch} from 'react-icons/go'
 import {BiUserCircle} from 'react-icons/bi'
 import {VscMenu} from 'react-icons/vsc'
@@ -19,7 +18,7 @@ const NavBar = ({openClose}) => {
         </div>
 
         <div>
-            <img className="object-contain h-14" src={logo} alt="logo"></img>
+            <img className="object-contain h-14" src="https://i.pinimg.com/564x/d6/8b/58/d68b589beca1c1721b9a0f10f36fc34d.jpg" alt="logo"></img>
         </div>
         
         <div className="flex justify-between space-x-2 text-white text-2xl">

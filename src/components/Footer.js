@@ -1,6 +1,5 @@
 
 
-import logo from '../images/logo.jpg';
 import {GrInstagram} from 'react-icons/gr';
 import {GrFacebook} from 'react-icons/gr';
 import {HiOutlineMail} from'react-icons/hi';
@@ -10,7 +9,7 @@ const Footer = () => {
     return (
         <section className="flex flex-col justify-between items-center md:flex-row bg-[#141414] border-2 border-[#4f46e5] relative shadow-sm">
             <div className="py-2 px-5">
-                <img className="object-contain h-14" src={logo} alt="logo"></img>
+                <img className="object-contain h-14" src="https://i.pinimg.com/564x/d6/8b/58/d68b589beca1c1721b9a0f10f36fc34d.jpg" alt="logo"></img>
             </div>
 
             <div className="flex flex-col space-y-1 md:flex-row md:justify-between md:space-y-0 md:space-x-2">
