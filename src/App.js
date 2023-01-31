@@ -1,4 +1,3 @@
-
 import './index.css';
 import NavBar from './components/NavBar';
 import Footer from './components/Footer';
@@ -6,6 +5,8 @@ import Cart from './components/Cart';
 import HamMenu from './components/HamMenu';
 import { useState } from 'react';
 import Carousel2 from './components/Carousel2';
+import Carousel from './components/Carousel';
+
 
 
 function App() {
