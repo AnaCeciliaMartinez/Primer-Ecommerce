@@ -124,7 +124,7 @@ function App() {
         </div>
       </div>
 
-      <Carousel2 />
+      <Carousel />
 
       <Footer/>
     </div>
