@@ -123,7 +123,7 @@ function App() {
         </div>
       </div>
 
-      <Carousel />
+      <Carousel2 />
 
       <Footer/>
     </div>
