@@ -1,0 +1,79 @@
+
+{
+    "products" : [
+
+        {
+            "id" : 1,
+            "name" : "Dominó",
+            "image" : "https://cdn.pixabay.com/photo/2017/09/14/02/11/domino-2747758_960_720.jpg",
+            "price" :"8000"
+        },
+
+        {
+            "id" : 2,
+            "name" : "Dados",
+            "image":"https://cdn.pixabay.com/photo/2015/03/04/10/58/cube-658643_960_720.jpg",
+            "price":"2000"
+        },
+
+        {
+            "id" : 3,
+            "name" : "Monopoly",
+            "image":"https://cdn.pixabay.com/photo/2016/04/27/10/16/monopoly-1356307_960_720.jpg",
+            "price":"9000"
+        },
+
+        {
+            "id" : 4,
+            "name" : "Ajedrez",
+            "image":"https://cdn.pixabay.com/photo/2021/01/29/11/33/chess-5960730_960_720.jpg",
+            "price":"9500"
+        },
+        
+        {
+            "id" : 5,
+            "name" : "Cartas de Poker",
+            "image":"https://cdn.pixabay.com/photo/2015/05/15/18/21/cards-769040_960_720.jpg",
+            "price":"3000"
+        },
+
+        {
+            "id" : 6,
+            "name" : "Pathfinder",
+            "image":"https://m.media-amazon.com/images/I/61rODsR2DKL._AC_.jpg",
+            "price":"15000"
+        },
+
+        {
+            "id" : 7,
+            "name" : "Vampiro 20 aniversario",
+            "image":"http://www.fancueva.com/wp-content/uploads/2014/12/V20productos.jpg",
+            "price":"25000"
+        },
+
+        {
+            "id" : 8,
+            "name" : "Eclipse",
+            "image":"https://cdn.akamai.steamstatic.com/steam/apps/522030/header.jpg?t=1474042151",
+            "price":"25000"
+        },
+
+        {
+            "id" : 9,
+            "name" : "El Gran Libro de la Locura",
+            "image":"https://cdnx.jumpseller.com/vudu-gaming/image/16654906/resize/960/960?1622521146",
+            "price":"30000"
+        },
+
+        {
+            "id" : 10,
+            "name" : "Dice Forge",
+            "image":"https://groupgames101.com/wp-content/uploads/2021/12/Dice-Forge-rules.jpg",
+            "price":"10000"
+        }
+        
+    ],
+
+    "cart": []
+
+}
