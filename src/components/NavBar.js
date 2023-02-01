@@ -12,8 +12,8 @@ const NavBar = ({openClose}) => {
         </div>
         
         <div className="pl-2 hidden md:block space-x-5">
-            <a href='../App.js' className="text-[#4f46e5] hover:text-sky-700">Inicio</a>
-            <a href='./Products.js'className="text-[#4f46e5] hover:text-sky-700">Productos</a>
+            <a href='/' className="text-[#4f46e5] hover:text-sky-700">Inicio</a>
+            <a href='/products'className="text-[#4f46e5] hover:text-sky-700">Productos</a>
             <a href='./Contact.js'className="text-[#4f46e5] hover:text-sky-700">Contacto</a>
         </div>
 
