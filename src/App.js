@@ -51,7 +51,7 @@ function App() {
       <Routes>
         <Route path='/' element={<Home lista={lista}/>}/> 
         <Route path='/products' element={<Products lista={lista}/>}/>
-        <Route path='/card' element={<Cart lista={lista}/>} />
+        <Route path='/cart' element={<Cart lista={lista}/>} />
        
       </Routes>
       
