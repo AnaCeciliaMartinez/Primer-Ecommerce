@@ -10,6 +10,7 @@ const CartTotal = () => {
       <h3>total a pagar: {total} $</h3>
     </div>
   );
+
 };
 
 export default CartTotal;
