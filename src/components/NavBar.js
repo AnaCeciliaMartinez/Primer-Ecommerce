@@ -24,12 +24,20 @@ const NavBar = ({openClose}) => {
         <div className="flex justify-between space-x-2 text-white text-2xl">
             <GoSearch/>
             <BiUserCircle/>
-            <a href='./Cart.js'><BsCart/></a>
-        
+            <a href='./Card'><BsCart/></a>
+
+            
         </div>
+   
         
     </nav>
     )
-}
+}   
+
+
+
+
+
+
 
 export default NavBar
